@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\PlayerCon.cs">
+    <Files>
+      <File FileName="Assets\PlayerCon.cs" Line="9" Column="25" />
+      <File FileName="Assets\RotateCu.cs" Line="1" Column="1" />
+      <File FileName="Rolla.sln" Line="1" Column="1" />
+      <File FileName="Assets\Rotator.cs" Line="1" Column="1" />
+      <File FileName="Assets\CamerCon.cs" Line="1" Column="1" />
+      <File FileName="Assets\RotateFake.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
